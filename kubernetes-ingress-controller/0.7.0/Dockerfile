@@ -1,0 +1,1 @@
+FROM kong/kubernetes-ingress-controller:0.7.0

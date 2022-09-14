@@ -1,0 +1,1 @@
+FROM nexus3.o-ran-sc.org:10002/o-ran-sc/ric-plt-dbaas:0.5.5
