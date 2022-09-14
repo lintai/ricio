@@ -1,0 +1,1 @@
+FROM nexus3.o-ran-sc.org:10002/o-ran-sc/it-dep-secret:0.0.2
