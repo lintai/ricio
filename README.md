@@ -32,3 +32,4 @@ kubernetes-ingress-controller:0.7.0
 alertmanager:v0.20.0  
 prometheus:v2.18.1  
 ric-plt-dbaas:0.5.5  
+tiller:v2.16.12

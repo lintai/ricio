@@ -1,0 +1,1 @@
+FROM ghcr.io/helm/tiller:v2.16.12
