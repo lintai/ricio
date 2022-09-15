@@ -35,3 +35,6 @@ ric-plt-dbaas:0.5.5
 tiller:v2.16.12
 configmap-reload:v0.3.0
 kong:1.4
+
+## xapps
+chartmuseum/chartmuseum:v0.12.0
