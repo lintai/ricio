@@ -1,0 +1,1 @@
+FROM chartmuseum/chartmuseum:v0.12.0
